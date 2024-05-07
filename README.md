@@ -1,5 +1,7 @@
-# Python-Satisfiability-Solver
+# 2024 - Python-Satisfiability-Solver
 Python implementation of a satisfiability solver
+
+Developed in ECE 51216 Digital Design Automation
 
 ## What is a Satisfiability (SAT) solver?
 
