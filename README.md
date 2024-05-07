@@ -16,3 +16,14 @@ From terminal, run:
 python main.py tests/aim-50-1_6-yes1-1.cnf
 
 to run the SAT solver on the CNF file provided.
+
+## File Contents
+main.py - Top level calls lower functions
+
+solver - Implements backtracking algorithm with watch variables and dynamic largest individual sum (DLIS) heuristics
+
+structures - Define classes and functions used in solver
+
+dimacs - parse the input CNF file into a clause list
+
+output_format - format print statement
